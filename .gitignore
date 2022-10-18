@@ -1,0 +1,9 @@
+venv/
+
+accounts/__pycache__
+accounts/accounts_api/__pycache__
+accounts/migrations/__pycache__
+
+app/__pycache__
+
+db.sqlite3
