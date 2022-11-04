@@ -1,7 +1,16 @@
 # Django Authentication system
 
-Django project setup with complete authentication rest apis
-with cors enabled and jwt token based authentication.
+Django Authentication system with custom user model.
+You can login with email instead of username.
+
+This is the complete tutorial for creating Django Authentication system with custom user model.
+
+## Features
+
+1. Complete rest apis
+2. Compatible with any frontend technolgies like React, Angular, Vue
+3. Json Web Token (JWT) enabled
+4. Cors enabled
 
 ## How to run project
 
