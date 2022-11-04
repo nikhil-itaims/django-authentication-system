@@ -4,6 +4,7 @@ Django Authentication system with custom user model.
 You can login with email instead of username.
 
 This is the complete tutorial for creating Django Authentication system with custom user model.
+Also added email templates where email is sent using html templates instead of regular text emails.
 
 ## Features
 
@@ -11,6 +12,7 @@ This is the complete tutorial for creating Django Authentication system with cus
 2. Compatible with any frontend technolgies like React, Angular, Vue
 3. Json Web Token (JWT) enabled
 4. Cors enabled
+5. Email HTML templates to send creative emails instead of regular text emails
 
 ## How to run project
 
